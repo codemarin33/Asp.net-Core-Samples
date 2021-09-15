@@ -1,0 +1,4 @@
+.Net core özellikleri
+
+* Farklı işletim sistemlerinde çalışabilir.
+
